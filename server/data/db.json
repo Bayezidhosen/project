@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "id": "usr_1793379471308_gq531",
+      "name": "Test Director",
+      "email": "director@hollywood.com",
+      "passwordHash": "09565f3d7a83948cc1d4de6b4f04ac6cc1a1cb32343ca02d234546c3452ddb25",
+      "photoUrl": "https://api.dicebear.com/7.x/initials/svg?seed=Test%20Director",
+      "createdAt": "2026-10-30T16:57:51.308Z"
+    }
+  ],
+  "studios": [
+    {
+      "id": "studio-cyc-01",
+      "title": "The Daylight Infinity Cyc Stage",
+      "category": "Photo Studio",
+      "hourlyRate": 145,
+      "securityDeposit": 250,
+      "maxCapacity": 25,
+      "location": "Brooklyn, New York",
+      "address": "420 Kent Ave, Suite 300, Brooklyn, NY",
+      "imageUrl": "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg",
+      "additionalImages": [
+        "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg",
+        "/src/assets/images/film_stage_soundstage_1793378836054.jpg"
+      ],
+      "amenities": [
+        "30ft White Infinity Cyc",
+        "Overhead Motorized Light Grid",
+        "Profoto Strobes & C-Stands",
+        "Client Lounge with Espresso Bar",
+        "Stylist Vanity & Steamer",
+        "High-Speed 1Gbps Fiber"
+      ],
+      "description": "An architectural 3,200 sq ft corner cyclorama stage equipped with seamless 30ft infinity curves, motorized overhead softbox diffusion, and full roll-in loading dock access. Perfect for high-fashion editorial, commercial lookbooks, and luxury campaign shoots.",
+      "hostName": "Elena Rostova",
+      "hostEmail": "elena@aperturehouse.com",
+      "hostAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.95,
+      "reviewsCount": 38,
+      "featured": true,
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "updatedAt": "2026-01-15T10:00:00.000Z"
+    },
+    {
+      "id": "studio-soundstage-02",
+      "title": "Kitsuné Cinema Soundstage 4",
+      "category": "Film Stage",
+      "hourlyRate": 280,
+      "securityDeposit": 500,
+      "maxCapacity": 60,
+      "location": "Queens, New York",
+      "address": "34-12 36th St, Astoria, NY",
+      "imageUrl": "/src/assets/images/film_stage_soundstage_1793378836054.jpg",
+      "additionalImages": [
+        "/src/assets/images/film_stage_soundstage_1793378836054.jpg",
+        "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg"
+      ],
+      "amenities": [
+        "Soundproofed STC-65 Acoustic Shell",
+        "ARRI Skypanel Truss System",
+        "J.L. Fisher Camera Dolly & Tracks",
+        "Drive-in Elephant Door",
+        "Green Room & Production Office",
+        "3-Phase 400A Camlock Power"
+      ],
+      "description": "Tier-1 soundproofed film stage designed for narrative features, music videos, and cinematic commercials. Features 24ft grid height, sound-isolated acoustic treatment, complete DMX lighting console, and drive-in vehicle capability.",
+      "hostName": "Marcus Vance",
+      "hostEmail": "marcus@soundstageastoria.com",
+      "hostAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.98,
+      "reviewsCount": 52,
+      "featured": true,
+      "createdAt": "2026-01-20T11:00:00.000Z",
+      "updatedAt": "2026-01-20T11:00:00.000Z"
+    },
+    {
+      "id": "studio-podcast-03",
+      "title": "The Velvet & Oak Broadcast Lounge",
+      "category": "Podcast Lounge",
+      "hourlyRate": 95,
+      "securityDeposit": 150,
+      "maxCapacity": 8,
+      "location": "Manhattan, New York",
+      "address": "180 Varick St, 9th Floor, New York, NY",
+      "imageUrl": "/src/assets/images/podcast_lounge_neon_1793378837013.jpg",
+      "additionalImages": [
+        "/src/assets/images/podcast_lounge_neon_1793378837013.jpg"
+      ],
+      "amenities": [
+        "4x Shure SM7B Microphones",
+        "RØDECaster Pro II Mixer",
+        "3x 4K Sony FX3 Camera Setup",
+        "Acoustic Walnut Slat Paneling",
+        "Custom Dimmable LED Backlighting",
+        "Live Video Switcher & Stream Deck"
+      ],
+      "description": "An intimate, luxury podcast and video interview salon. Designed with custom acoustic timber slats, marble table centerpieces, broadcast-grade audio processing, and automated multi-angle 4K camera switching ready to record straight to SSD.",
+      "hostName": "Sophia Lin",
+      "hostEmail": "sophia@creatorsuite.nyc",
+      "hostAvatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.92,
+      "reviewsCount": 29,
+      "featured": true,
+      "createdAt": "2026-02-01T08:30:00.000Z",
+      "updatedAt": "2026-02-01T08:30:00.000Z"
+    },
+    {
+      "id": "studio-music-04",
+      "title": "Analog Vault Recording & Mastering Suite",
+      "category": "Music Suite",
+      "hourlyRate": 160,
+      "securityDeposit": 300,
+      "maxCapacity": 12,
+      "location": "Greenpoint, New York",
+      "address": "67 West St, Brooklyn, NY",
+      "imageUrl": "/src/assets/images/music_recording_suite_1793378838029.jpg",
+      "additionalImages": [
+        "/src/assets/images/music_recording_suite_1793378838029.jpg"
+      ],
+      "amenities": [
+        "Neve Genesys Black Console",
+        "Genelec 8351B Smart Active Monitors",
+        "Vintage U47 & Neumann Mics",
+        "Acoustic Diffuser Wall Treatment",
+        "Isolated Vocal & Drum Booth",
+        "Pro Tools Ultimate HDX System"
+      ],
+      "description": "World-class recording, mixing, and mastering environment tuned by master acousticians. Features hybrid analog-digital routing with classic outboard gear (Tube-Tech CL1B, Pultec EQ, 1176LN) and an isolated live room.",
+      "hostName": "Julian Grey",
+      "hostEmail": "julian@soundvaultnyc.com",
+      "hostAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.97,
+      "reviewsCount": 44,
+      "featured": true,
+      "createdAt": "2026-02-10T14:00:00.000Z",
+      "updatedAt": "2026-02-10T14:00:00.000Z"
+    },
+    {
+      "id": "studio-art-05",
+      "title": "Sunlit Industrial Clay & Atelier Loft",
+      "category": "Art Workshop",
+      "hourlyRate": 85,
+      "securityDeposit": 120,
+      "maxCapacity": 30,
+      "location": "Long Island City, New York",
+      "address": "43-01 21st St, Studio 510, LIC, NY",
+      "imageUrl": "/src/assets/images/art_craft_loft_workshop_1793378838996.jpg",
+      "additionalImages": [
+        "/src/assets/images/art_craft_loft_workshop_1793378838996.jpg"
+      ],
+      "amenities": [
+        "Large Heavy Timber Worktables",
+        "Floor-to-Ceiling Factory Windows",
+        "Ceramic Wheels & Clay Station",
+        "High-Ventilation Fume Exhaust",
+        "Easel Stations & Canvas Racks",
+        "Natural North-Facing Light"
+      ],
+      "description": "A 2,500 sq ft daylight loft bathed in continuous natural light from historic factory windows. Tailored for ceramic workshops, fine art painting, sculpting classes, architectural modeling, and creative group ateliers.",
+      "hostName": "Chloe Bennett",
+      "hostEmail": "chloe@atelierlic.com",
+      "hostAvatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.89,
+      "reviewsCount": 23,
+      "featured": true,
+      "createdAt": "2026-02-18T09:15:00.000Z",
+      "updatedAt": "2026-02-18T09:15:00.000Z"
+    },
+    {
+      "id": "studio-cyc-06",
+      "title": "Hudson Daylight Penthouse & White Stage",
+      "category": "Photo Studio",
+      "hourlyRate": 195,
+      "securityDeposit": 350,
+      "maxCapacity": 35,
+      "location": "Chelsea, New York",
+      "address": "520 W 27th St, 11th Floor, New York, NY",
+      "imageUrl": "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg",
+      "additionalImages": [
+        "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg"
+      ],
+      "amenities": [
+        "Wraparound Skyline Terrace Access",
+        "Blackout Motorized Shades",
+        "Broncolor Senso Lighting Kit",
+        "Hair & Makeup Dual Station",
+        "Commercial Kitchenette",
+        "Freight Elevator 24/7"
+      ],
+      "description": "High-elevation creative penthouse featuring an expansive white studio floor, unobstructed southern light exposure, high ceilings, and panoramic views of Manhattan. Ideal for celebrity portraits, fashion commercials, and private exhibitions.",
+      "hostName": "Elena Rostova",
+      "hostEmail": "elena@aperturehouse.com",
+      "hostAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "rating": 4.96,
+      "reviewsCount": 31,
+      "featured": true,
+      "createdAt": "2026-02-22T16:00:00.000Z",
+      "updatedAt": "2026-02-22T16:00:00.000Z"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "bk_1793379479372_nx070",
+      "studioId": "studio-cyc-01",
+      "studioTitle": "The Daylight Infinity Cyc Stage",
+      "studioImage": "/src/assets/images/hero_cyclorama_studio_1793378836214.jpg",
+      "userName": "Test Director",
+      "userEmail": "director@hollywood.com",
+      "bookingDate": "2026-11-15",
+      "startTime": "10:00",
+      "endTime": "14:00",
+      "totalHours": 4,
+      "hourlyPrice": 145,
+      "securityDeposit": 250,
+      "totalAmount": 830,
+      "status": "pending",
+      "hostEmail": "elena@aperturehouse.com",
+      "createdAt": "2026-10-30T16:57:59.372Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-01",
+      "studioId": "studio-cyc-01",
+      "userName": "Alexander Wright",
+      "userEmail": "alex@voguemedia.com",
+      "userAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "The lighting grid and infinity cyc were in pristine condition. Elena had the studio prepped with fresh paint and the high-speed tethering connection was rock solid. Will book every month!",
+      "createdAt": "2026-02-25T14:22:00.000Z"
+    },
+    {
+      "id": "rev-02",
+      "studioId": "studio-cyc-01",
+      "userName": "Maya Hernandez",
+      "userEmail": "maya@studioeight.co",
+      "userAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Spectacular space. The team loved the espresso lounge and the dressing room had plenty of mirrors and wardrobe steamers. 10/10 experience.",
+      "createdAt": "2026-02-28T18:05:00.000Z"
+    },
+    {
+      "id": "rev-03",
+      "studioId": "studio-soundstage-02",
+      "userName": "David Sterling",
+      "userEmail": "david@cinemaproductions.com",
+      "userAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Sound isolation is legitimate STC-65—we had zero spill from the street even during heavy traffic. The dolly track setup was effortless.",
+      "createdAt": "2026-03-02T11:40:00.000Z"
+    },
+    {
+      "id": "rev-04",
+      "studioId": "studio-podcast-03",
+      "userName": "Sarah Jenkins",
+      "userEmail": "sarah@founderpodcast.fm",
+      "userAvatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Best podcast room in Manhattan hands down. Sound treatment is dead quiet, lighting is flattering, and the Shure mics gave us broadcast warmth.",
+      "createdAt": "2026-03-05T09:15:00.000Z"
+    }
+  ],
+  "wishlists": []
+}

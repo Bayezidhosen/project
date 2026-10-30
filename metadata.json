@@ -1,0 +1,6 @@
+{
+  "name": "StudioSpace - Creative Studio Booking Marketplace",
+  "description": "Discover, explore, and book professional photo studios, film stages, podcast lounges, music suites, and art workshops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
